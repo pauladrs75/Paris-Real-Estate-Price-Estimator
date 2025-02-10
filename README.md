@@ -6,4 +6,4 @@ The dataset that I used has some limits (e.g. doesn't take into account the cons
 
 The repository also includes a server and a HTML/CSS webpage to have a fully functioning interface where the user can fill the information.
 
-The datat that was used is from a Kaggle dataset that you can found here: https://www.kaggle.com/datasets/nechbamohammed/real-estate-dataset
+The data that was used is from a Kaggle dataset that you can found here: https://www.kaggle.com/datasets/nechbamohammed/real-estate-dataset
