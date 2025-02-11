@@ -23,7 +23,7 @@ $(document).ready(function() {
         
         $.ajax({
             type: "POST",
-            url: "http://18.223.108.174:5000/predict_home_price",
+            url: "http://3.136.20.64:5000/predict_home_price",
             data: formData,
             processData: false,
             contentType: false,
